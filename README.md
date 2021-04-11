@@ -1,1 +1,1 @@
-"# competitive-programming-solutions" 
+# competitive-programming-solutions
